@@ -2,7 +2,7 @@
 
 > A survey form for generating data using HTML elements & CSS properties.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./olayinka-fcc-survey-form.netlify.app_.png)
 
 ## Built With
 
@@ -25,7 +25,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://olayinka-fcc-survey-form.netlify.app/)
 
 ### Development (Running locally)
 

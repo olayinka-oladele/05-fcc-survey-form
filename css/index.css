@@ -5,12 +5,12 @@ This imports the `reset.css` file */
 /* For testing purposes, delete this code */
 
 @import "https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap";
+
 :root {
   --color-white: #f3f3f3;
   --color-darkblue: #1b1b32;
   --color-darkblue-alpha: rgb(27 27 50 / 80%);
   --color-green: #37af65;
-
 }
 
 *,
@@ -65,7 +65,7 @@ p {
 }
 
 label {
-  display: flex ;
+  display: flex;
   align-items: center;
   font-size: 1.125rem;
   margin-bottom: 0.5rem;
@@ -114,7 +114,7 @@ button {
 }
 
 .clue {
-  margin-left: 0 .25rem;
+  margin-left: 0.25rem;
   font-size: 0.9rem;
   color: #e4e4e4;
 }
@@ -182,7 +182,5 @@ form {
   padding: 0.75rem;
   background: var(--color-green);
   color: inherit;
-  border-radius: 2px;
   cursor: pointer;
-  border-radius: 1.5;
 }

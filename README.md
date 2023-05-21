@@ -2,7 +2,7 @@
 
 > A survey form for generating data using HTML elements & CSS properties.
 
-![screenshot](./olayinka-fcc-survey-form.netlify.app_.png)
+![screenshot](projects_fcc_05-fcc-survey-form_screenshot.png)
 
 ## Built With
 
@@ -96,7 +96,6 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
-- etc
 
 ## 📝 License
 
